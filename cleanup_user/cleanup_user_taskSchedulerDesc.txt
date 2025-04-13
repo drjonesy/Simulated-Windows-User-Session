@@ -1,0 +1,1 @@
+Removes all files user has added to local profile. Includes Downloads, Uploads, and Created
